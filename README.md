@@ -1,2 +1,2 @@
 # test
-i dont really now what is 
+mainly fot JAVA
