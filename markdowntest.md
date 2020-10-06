@@ -17,7 +17,7 @@ From J. D. Power, a global market research website that conducts surveys of cust
 Brand | Audi
 Partial | 3.5%
 
-| 左对齐 | 右对齐 | 居中对齐 |
-| :-----| ----: | :----: |
-| 单元格 | 单元格 | 单元格 |
-| 单元格 | 单元格 | 单元格 |
+| Brand | Partial |
+| :----:| :----: |
+| Honda | 21.00% |
+| Toyota | 17.90% |
