@@ -16,3 +16,8 @@ From J. D. Power, a global market research website that conducts surveys of cust
 # table
 Brand | Audi
 Partial | 3.5%
+
+| 左对齐 | 右对齐 | 居中对齐 |
+| :-----| ----: | :----: |
+| 单元格 | 单元格 | 单元格 |
+| 单元格 | 单元格 | 单元格 |
