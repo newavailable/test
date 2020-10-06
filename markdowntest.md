@@ -14,10 +14,16 @@ From J. D. Power, a global market research website that conducts surveys of cust
 (here is a visio image)
 
 # table
-Brand | Audi
-Partial | 3.5%
 
 | Brand | Partial |
 | :----:| :----: |
 | Honda | 21.00% |
 | Toyota | 17.90% |
+| Mercedes-Benz | 10.80% |
+| Hyundai | 7.80% |
+| BMW | 7.40% |
+| Kia | 5.80% |
+| Mazda | 4.30% |
+| Mitsubishi |4.20% |
+| Audi | 3.40% |
+| Nissan | 3.30% |
